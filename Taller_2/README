@@ -1,0 +1,7 @@
+"""Para el taller se realizaron 4 códigos:
+-En el primero, se diseñó un algoritmo que le pide al usuario un número entero para que el algoritmo le indique si este es par o impar.
+-En el segundo, se le pide al usuario que ingrese un número y también un porcentaje dentro del rango del 0 al 100 para calcular el porcentaje 
+del primer número ingresado, así mismo mostrar error si el usuario entrega un dato fuera del rango.
+-En el tercer codigo al usuario se le pide un numero, y por medio de una condición si el numero es par se entregan todos los numeros pares entre 
+el 0 y el numero ingresado y si es impar se imprime en la consola que el resultado es impar.
+-En el cuarto se genera un algoritmo que dado un numero entero,realiza la suma de todos los numeros que se encuentre desde el 0 a el numero ingresado."""
