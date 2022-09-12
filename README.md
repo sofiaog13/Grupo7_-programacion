@@ -1,4 +1,3 @@
 # Grupo7_programacion
 Repositorio grupal - Programación de computadores
-Inegrantes: Carlos Eduardo Bermudez Fernández, Pedro Nicolás Leguizamon Junco,
-            Milton Nicolás Rincón Caicedo
+Integrantes: Carlos Eduardo Bermudez Fernández, Pedro Nicolás Leguizamon Junco, Sofía Osejo Gallo, Milton Nicolás Rincón Caicedo.
